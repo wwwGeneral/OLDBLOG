@@ -19,3 +19,4 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-relative-links'

@@ -11,7 +11,7 @@ tags: [test]     # TAG names should always be lowercase
 
 test
 
-```Python
+```python
 for i in range(10):
     print("coucou")
 ```

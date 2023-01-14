@@ -25,43 +25,36 @@ If you have a job to offer me, contact me and we'll see together!
 ```
 
 ## The tools I like :
-![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-![CS](https://img.shields.io/badge/Cobalt%20Strike-A81D33?style=for-the-badge)
-
-![WINDOWS](https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![BLOODHOUND](https://img.shields.io/badge/BloodHound-0078D4?style=for-the-badge)
-
-![IMPACKET](https://img.shields.io/badge/Impacket-5C2D91?style=for-the-badge)
-
-![RUBEUS](https://img.shields.io/badge/Rubeus-00979D?style=for-the-badge)
-
-![MIMIKATZ](https://img.shields.io/badge/Mimikatz-90E59A.svg?style=for-the-badge)
+![KALI](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
+![CS](https://img.shields.io/badge/Cobalt%20Strike-A81D33)
+![WINDOWS](https://img.shields.io/badge/Active%20Directory-0078D6?logo=windows&logoColor=white)
+![BLOODHOUND](https://img.shields.io/badge/BloodHound-0078D4)
+![IMPACKET](https://img.shields.io/badge/Impacket-5C2D91)
+![RUBEUS](https://img.shields.io/badge/Rubeus-00979D)
+![MIMIKATZ](https://img.shields.io/badge/Mimikatz-90E59A.svg)
 
 
 ## Goals to complete on 2023:
 - 👾 I try to get certified in Active Directory:
-
     - [ ] HTB Offshore Prolab
     - [ ] CRTO
     - [ ] Become a professional pentester/redteamer
   
 ## Futur Goals: 
-- :alien: Get even more certifications:
+- 👽 Get even more certifications:
     - [ ] OSEP
     - [ ] OSCP
     - [ ] CRTP
     - [ ] CRTE
    
-- :collision: Finish more Prolabs from HackTheBox:
+- 💥 Finish more Prolabs from HackTheBox:
     - [ ] RastaLabs
     - [ ] Cybernetics
     - [ ] APTProlabs
     
 ## About me:
- - :video_game: I don't have a huge beard but I play video games
- - :crossed_flags: I'm practicing on CTF, tryhackme and HTB
+ - 🎮 I don't have a huge beard but I play video games
+ - 🎌 I'm practicing on CTF, tryhackme and HTB
  - 🖥 I loooove AD pentesting (in case you haven't noticed)
  
  [![wwwGeneral](https://www.hackthebox.eu/badge/image/799064)](https://app.hackthebox.com/profile/799064)

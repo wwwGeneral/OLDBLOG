@@ -15,3 +15,7 @@ test
 for i in range(10):
     print("coucou")
 ```
+
+```shell
+./teamserver <> <>
+```

@@ -12,7 +12,6 @@ baseurl: ''
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Paris
 
@@ -20,7 +19,7 @@ timezone: Europe/Paris
 # ↓ --------------------------
 
 title: wwwGeneral                          # the main title
-
+author: wwwGeneral
 tagline: wwwGeneral's hacking blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
@@ -33,7 +32,10 @@ github:
   username: wwwGeneral             # change to your github username
 
 twitter:
-  username: wwwGeneralFR            # change to your twitter username
+  username: wwwGeneralFR # change to your twitter username
+  card: summary           
+
+logo: /assets/favicons/android-chrome-384x384.png
 
 social:
   # Change to your full name.
@@ -44,9 +46,10 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/wwwGeneralFR     # change to your twitter homepage
     - https://github.com/wwwGeneral      # change to your github homepage
+    - https://www.linkedin.com/in/nathan-saucet/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/nathan-saucet/
+    
 
 google_site_verification:               # fill in to your verification string
 

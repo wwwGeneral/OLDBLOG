@@ -6,10 +6,11 @@
 -
   type: twitter
   icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  url: 'https://twitter.com/wwwGeneralFR'
+# -
+#   type: email
+#   icon: 'fas fa-envelope'
+#   noblank: true            # open link in current tab
 -
   type: rss
   icon: 'fas fa-rss'

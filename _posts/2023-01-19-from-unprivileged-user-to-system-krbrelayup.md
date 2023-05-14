@@ -25,6 +25,9 @@ A very accurate description of the exploit by his creator :
 It means that **every Windows machine** in a domain is vulnerable (and will be) as long as nobody changed the default settings and enforced the LDAP signing setting.
 And the cool thing is that you don't need to have a special privilege or be an Administrator.
 
+UPDATE : since **october 2022** the exploit from this repository has been **fixed** (see discussion [here](https://twitter.com/_Imm0/status/1583187655222706177)). You can see that there is an error when connecting to LDAP https://github.com/Dec0ne/KrbRelayUp/issues/31. However the [manual](https://gist.github.com/tothi/bf6c59d6de5d0c9710f23dae5750c4b9) exploitation might work.
+{: .prompt-warning }
+
 That being said, you can see how powerful this tool is.
 ## Prerequisites
 Before running the `.exe`, you have to download the whole project here : [https://github.com/Dec0ne/KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp).

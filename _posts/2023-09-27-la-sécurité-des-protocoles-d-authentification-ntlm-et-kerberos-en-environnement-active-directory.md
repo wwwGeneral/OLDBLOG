@@ -147,8 +147,10 @@ D’un point de vue technique, ces tickets sont structurés de la même façon [
 - **tkt-vno** : numéro de la version de Kerberos utilisée pour le ticket
 - **realm** : royaume Kerberos où le ticket a été généré
 - **sname** : SPN<span class="star">*</span> du service (nom du service et nom du serveur), pour un TGT ce sera toujours le service krbtgt<span class="star">*</span> et le nom de domaine
-- **enc-part** : la partie chiffrée du ticket (chiffré avec le hash du compte krbtgt pour les TGT et chiffré avec le hash du compte de service pour le ST)
+- **enc-part** : la partie chiffrée du ticket (chiffrée avec le hash du compte krbtgt pour les TGT et chiffrée avec le hash du compte de service pour le ST)
+
 Dans la partie chiffrée “enc-part”, on retrouve différents champs : 
+
 - **flags** : option décrivant des comportements du ticket (forwardable, renewable, initial…)       
 - **key** : soit K<sub>C-TGS</sub> pour un TGT ou K<sub>C-SERV01</sub> pour un ST
 - **cname** & **crealm** : nom du client et de son royaume Kerberos<span class="star">*</span>

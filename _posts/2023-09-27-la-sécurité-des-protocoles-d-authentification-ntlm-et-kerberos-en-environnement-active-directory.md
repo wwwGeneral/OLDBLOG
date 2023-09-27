@@ -264,6 +264,8 @@ Lorsque le serveur hébergeant le service reçoit cette requête, il déchiffre 
 #### AP_REP
 Dans le cas où le serveur détermine que l’utilisateur a bien le droit d’accéder à son service et que le flag “mutual-required” est activé dans la requête **KRB_AP_REQ**, le serveur renvoie une réponse **KRB_AP_REP** contenant une partie chiffrée avec la clé K<sub>C-SERV01</sub>.
 
+![KRB_AP_REP](/assets/img/Article%20Kerberos%20NTLM/Kerberos-KRB_AP_REP.svg){: .shadow }
+
 Cette partie chiffrée contient des timestamps liés au client (ctime et cusec) que le client vérifiera pour authentifier le serveur, et une sous-clé (subkey) qui pourra être utilisée par le client et le serveur pour communiquer de manière sécurisée. [^16] [^17]
 
 # Attaques sur le protocole Kerberos

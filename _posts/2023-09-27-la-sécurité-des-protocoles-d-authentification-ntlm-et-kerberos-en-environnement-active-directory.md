@@ -42,7 +42,7 @@ date: 2023-09-27 19:00 +0100
 
 Depuis leurs créations en 1993, les protocoles Kerberos v5 et NTLM gèrent les besoins d’authentification au cœur du SI des entreprises disposant d'un environnement Active Directory. Bien que différents, ces deux protocoles disposent chacun de faiblesses exploitées par les attaquants et les chercheurs en cybersécurité.
 
-Cet article explique le fonctionnement de NTLM dans ces différentes versions et de Kerberos v5 au sein de l’environnement Active Directory. Les différences entre ces protocoles seront étudiées, ainsi que les attaques liées à ces protocoles.
+Cet article explique le fonctionnement de NTLM dans ses différentes versions et de Kerberos v5 au sein de l’environnement Active Directory. Les différences entre ces protocoles seront étudiées, ainsi que les attaques liées à ces protocoles.
 
 ## NTLM
 Le protocole d'authentification NTLM ou "New Technology Lan Manager" a été créé en 1993 pour remplacer le protocole Lan Manager devenu trop vulnérable.

@@ -427,6 +427,7 @@ Le hash NTLM est composé d’une partie LM “vide” et de sa partie NT.
 
 ---------
 > La première version de cet article a été rédigée lors de mon stage chez Devoteam. Merci à eux !
+[https://france.devoteam.com/paroles-dexperts/la-securite-des-protocoles-dauthentification-ntlm-et-kerberos-en-environnement-active-directory/](https://france.devoteam.com/paroles-dexperts/la-securite-des-protocoles-dauthentification-ntlm-et-kerberos-en-environnement-active-directory/)
 {: .prompt-info }
 
 ---------

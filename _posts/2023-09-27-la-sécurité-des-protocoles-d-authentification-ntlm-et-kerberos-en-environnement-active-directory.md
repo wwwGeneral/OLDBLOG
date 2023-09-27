@@ -150,7 +150,7 @@ D’un point de vue technique, ces tickets sont structurés de la même façon [
 - **enc-part** : la partie chiffrée du ticket (chiffré avec le hash du compte krbtgt pour les TGT et chiffré avec le hash du compte de service pour le ST)
 Dans la partie chiffrée “enc-part”, on retrouve différents champs : 
 - **flags** : option décrivant des comportements du ticket (forwardable, renewable, initial…)       
-- **key** : soit KC-TGS pour un TGT ou KC-SERV01 pour un ST
+- **key** : soit K<sub>C-TGS</sub> pour un TGT ou K<sub>C-SERV01</sub> pour un ST
 - **cname** & **crealm** : nom du client et de son royaume Kerberos<span class="star">*</span>
 - **transited** : liste des royaumes qui ont été utilisés pour authentifier l’utilisateur
 - **authtime, endtime, starttime** (optionnel), **renew-till** (optionnel) : dates relatives au ticket
@@ -163,8 +163,6 @@ Dans cet article, le terme “hash du compte” sera utilisé pour désigner par
 {: .prompt-info }
 
 
-
-
 #### AS_REQ
 Après que l'utilisateur a entré ses identifiants dans le service de son choix, le client Kerberos de l’utilisateur va effectuer la première étape d'authentification. 
 
@@ -173,7 +171,7 @@ La première étape du protocole Kerberos se nomme KRB_AS_REQ. Cette étape cons
 Cette étape est souvent appelée “pré-authentification”.
 ![KRB_AS_REQ](/assets/img/Article%20Kerberos%20NTLM/Kerberos-KRB_AS_REQ.svg){: .shadow }
 
-La requête KRB_AS_REQ est composée de différents éléments nécessaires à la création du TGT tel que le nom du client, du service, du domaine ou encore la date d’expiration du ticket etc. [^8]
+La requête KRB_AS_REQ est composée de différents éléments nécessaires à la création du TGT tels que le nom du client, du service, du domaine ou encore la date d’expiration du ticket etc. [^8]
 
 Afin que l’AS puisse authentifier le client, la requête KRB_AS_REQ dispose d’un champ contenant un timestamp chiffré par le hash du mot de passe de l’utilisateur et d’un champ “etype” contenant le nom de l'algorithme utilisé pour le chiffrement. 
 
@@ -287,7 +285,7 @@ Cependant, pour la plupart des SPN, l’attaque ne sera pas possible car leurs s
 
 Toutefois, certains comptes de service sont générés par des utilisateurs humains, ce sont donc ces derniers qui vont être ciblés puisque possédant potentiellement un mot de passe faible, facilement vulnérable à une attaque par brute-force. 
 
-Plusieurs outils peuvent être utilisés pour réaliser cette attaque tel que `GetUserSPNs.py` (suite Impacket) et `Rubeus`.
+Plusieurs outils peuvent être utilisés pour réaliser cette attaque tels que `GetUserSPNs.py` (suite Impacket) et `Rubeus`.
 
 ### Tickets attacks (silver, golden, diamond, sapphire)
 Les attaques par tickets sont un type d’attaque permettant de forger des tickets valides permettant d’usurper l'identité d'autres utilisateurs ou d’octroyer des privilèges d’accès légitimes (PAC) afin d’accéder aux ressources désirées.

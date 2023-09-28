@@ -331,7 +331,7 @@ Pour le Sapphire Ticket, le principe reste le même, mais au lieu de modifier ma
         </tr>
         <tr style="color: #000000;">
             <td style="white-space: normal; background-color: #f4cccc;">Limité en matière d’interopérabilité avec les systèmes UNIX</td>
-            <td style="white-space: normal; background-color: #d9ead3;">Désactivé par défaut à partir de Windows 7 et Windows Server 2008 R2.</td>
+            <td style="white-space: normal; background-color: #d9ead3;">Interopérabilité avec les systèmes UNIX</td>
         </tr>
         <tr style="color: #000000;">
             <td style="background-color: #f4cccc;">Ne supporte pas la MFA</td>

@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 # **Hey ! I'm wwwGeneral but you can call me Nathan**
-
-
 ```plaintext
 ┌──(wwwGeneral㉿kali)-[~]
 └─$ whoami
@@ -19,48 +17,52 @@ At some point, I took a course on pentesting in Active Directory environment and
 
 I did some internships to strengthen my knowledge in this field.
 
-If you have a job to offer me, please don't hesitate to contact me directly to discuss it !
+I'm currently working in the offensive security world at XMCO.
+
+Don't hesitate to contact me directly to discuss any professional opportunities !
 ```
 
 ## Goals to complete on 2023:
+- Starting my journey in professional offsec world :
+	- [X] HTB Offshore Prolab
+   	- [ ] Teaching Active Directory pentesting
+   	- [X] Become a professionnal pentester
+
+## Goals to complete on 2024:
 - 👾 I try to get certified in Active Directory:
-    - [X] HTB Offshore Prolab
-    - [ ] Teaching Active Directory pentesting
-    - [ ] CRTO
-  
-## Futur Goals: 
-- 👽 Get even more certifications:
-    - [ ] OSEP
+   	- [ ] CRTO
     - [ ] OSCP
-    - [ ] CRTP
-    - [ ] CRTE
-   
-- 💥 Finish more Prolabs from HackTheBox:
-    - [ ] RastaLabs
-    - [ ] Cybernetics
-    - [ ] APTProlabs
+ 	- [ ] RastaLabs
     
+## Futur Goals: 
+- :alien: Get even more certifications:
+	- [ ] OSEP
+   	- [ ] CRTP
+   	- [ ] CRTE
+   
+- :collision: Finish more Prolabs from HackTheBox:
+	 - [ ] Cybernetics
+	 - [ ] APTProlabs
+	
 ## About me:
- - 🎮 I do play video games between hacking sessions
- - 🎌 I'm practicing on CTF, tryhackme and HTB
+ - :video_game: I do play video games between hacking sessions
+ - :crossed_flags: I'm practicing on CTF, tryhackme and HTB
  - 🖥 I loooove AD pentesting (in case you haven't noticed)
  
-----
-
- [![wwwGeneral](https://www.hackthebox.eu/badge/image/799064)](https://app.hackthebox.com/profile/799064){: .normal }
- [![wwwGeneral](https://tryhackme-badges.s3.amazonaws.com/wwwGeneral.png)](https://tryhackme.com/p/wwwGeneral){: .normal }
+ [![wwwGeneral](https://www.hackthebox.eu/badge/image/799064)](https://app.hackthebox.com/profile/799064)
+ [![wwwGeneral](https://tryhackme-badges.s3.amazonaws.com/wwwGeneral.png)](https://tryhackme.com/p/wwwGeneral)
 
 
 ## Contact me:
-If you want to have technical or professionnal discussion, feel free to add me on discord: **wwwGeneral#0257** or on Twitter @wwwGeneralFR
-
+If you want to have technical or professionnal discussion, feel free to add me on discord: **wwwGeneral#0257**
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wwwGeneral.visitor-badge)
 
 ## Scores:
-![stats](https://github-readme-stats.vercel.app/api?username=wwwGeneral){: .normal }
+![stats](https://github-readme-stats.vercel.app/api?username=wwwGeneral&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwGeneral&layout=compact&theme=dark)
 
 ## Joke of the day:
-![Jokes Card](https://readme-jokes.vercel.app/api){: .normal }
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!---
 wwwGeneral/wwwGeneral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

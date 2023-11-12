@@ -35,12 +35,12 @@ Don't hesitate to contact me directly to discuss any professional opportunities 
     - [ ] RastaLabs
     
 ## Futur Goals: 
-- :alien: Get even more certifications:
+- 👽 Get even more certifications:
     - [ ] OSEP
     - [ ] CRTP
     - [ ] CRTE
    
-- :collision: Finish more Prolabs from HackTheBox:
+- 💥 Finish more Prolabs from HackTheBox:
     - [ ] Cybernetics
     - [ ] APTProlabs
 	

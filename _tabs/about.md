@@ -24,25 +24,25 @@ Don't hesitate to contact me directly to discuss any professional opportunities 
 
 ## Goals to complete on 2023:
 - Starting my journey in professional offsec world :
-	- [X] HTB Offshore Prolab
-   	- [ ] Teaching Active Directory pentesting
-   	- [X] Become a professionnal pentester
+    - [X] HTB Offshore Prolab
+    - [ ] Teaching Active Directory pentesting
+    - [X] Become a professionnal pentester
 
 ## Goals to complete on 2024:
 - 👾 I try to get certified in Active Directory:
-   	- [ ] CRTO
+    - [ ] CRTO
     - [ ] OSCP
- 	- [ ] RastaLabs
+    - [ ] RastaLabs
     
 ## Futur Goals: 
 - :alien: Get even more certifications:
-	- [ ] OSEP
-   	- [ ] CRTP
-   	- [ ] CRTE
+    - [ ] OSEP
+    - [ ] CRTP
+    - [ ] CRTE
    
 - :collision: Finish more Prolabs from HackTheBox:
-	 - [ ] Cybernetics
-	 - [ ] APTProlabs
+    - [ ] Cybernetics
+    - [ ] APTProlabs
 	
 ## About me:
  - :video_game: I do play video games between hacking sessions
